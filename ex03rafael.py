@@ -1,0 +1,6 @@
+v1 = int(input('Digite um valor: '))
+v2 = int(input('Digite o segundo valor: '))
+v3 = int(input('Digite o terceiro valor: '))
+v4 = int(input('Digite o quarto valor: '))
+diferenca = (v1 * v2) - (v3 * v4)
+print(f'DIFERENÇA = {diferenca}.')
