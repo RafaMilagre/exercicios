@@ -1,0 +1,8 @@
+a = float(input('Digite o valor A: '))
+b = float(input('Digite o valor B: '))
+c = float(input('Digite o valor C: '))
+print(f'O triângulo que tem {a} de BASE e {c} de ALTURA, tem ÁREA de: {(a * c) / 2:.3f}.')
+print(f'O circulo que tem RAIO {c} tem área de {3.14159 * pow(c, 2):.3f}.')
+print(f'O trapézio que tem {a} e {b} de BASE e {c} de ALTURA tem área de {(a + b) * (c / 2):.3f}.')
+print(f'O quadrado que tem {b} de LADO tem área de {(b * b):.3f}.')
+print(f'O retângulo que tem {a} e {b} de LADOS tem área de {(a * b):.3f}.')
