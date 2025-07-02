@@ -1,2 +1,2 @@
-# Repositório de exercício 
+# Repositório de exercícios 
 
